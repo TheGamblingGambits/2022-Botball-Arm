@@ -62,7 +62,6 @@ int main()
         mav(0, -500);
         mav(3, -500);
     }
-    
     ao();
     return 0;
 }
